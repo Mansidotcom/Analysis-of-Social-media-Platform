@@ -1,10 +1,11 @@
 gunicorn==23.0.0
 dj-database-url==3.0.1
 whitenoise>=6.9.0
-Django==5.2.1
 anyio==3.6.2
 argon2-cffi==21.3.0
 bcrypt==3.2.0
+Django==5.2.1
+django-tailwind==4.0.1
 pandas==2.2.3
 numpy==2.2.0
 matplotlib==3.9.4
